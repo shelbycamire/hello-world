@@ -1,2 +1,4 @@
 # hello-world
-first entry into GitHub repository
+second entry into GitHub repository
+
+learning to commit
